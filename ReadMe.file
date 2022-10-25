@@ -1,0 +1,23 @@
+The process I went through starting was creating my html file along with my CSS and JS file then creating a main JS file attached to my HTML file which help me put all my information in my JS that I want it to display on my front end (html) once I put my info in on my main JS I created a server.JS folder that will display my backend information through the task track website I created by using fs express and axios by running it through the terminal.
+
+
+
+
+
+
+
+*/ I struggled a lot with this project I struglled with my js edit and delete button. 
+I need to get better at js, I struggled with asking for help and trying take things on by myself when I don't know something
+
+
+Also struggled with trying to connect my server (backend) to my js. Harold really
+gave a good example for me to follow with using the server by importing "fs" "express"
+and "axios". 
+
+
+Another struggled I had was being able to understand the readfile.js but i went back to canvas and watch the video where 
+Harold broke down the concept of using backend through the server.
+
+
+
+
